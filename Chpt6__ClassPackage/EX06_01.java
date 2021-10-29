@@ -1,4 +1,4 @@
-package ClassPackage;
+package Chpt6__ClassPackage;
 
 public class EX06_01 {
 	public static void main(String[] args) {

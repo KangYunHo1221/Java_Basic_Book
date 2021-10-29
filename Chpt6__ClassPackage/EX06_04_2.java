@@ -1,4 +1,4 @@
-package ClassPackage;
+package Chpt6__ClassPackage;
 
 public class EX06_04_2 {
 	//String Buffer2

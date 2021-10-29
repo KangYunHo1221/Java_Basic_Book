@@ -1,4 +1,4 @@
-package ClassPackage;
+package Chpt6__ClassPackage;
 
 //Wrapper class
 //Use primitive type as Object

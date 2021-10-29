@@ -1,4 +1,4 @@
-package ClassPackage;
+package Chpt6__ClassPackage;
 
 import java.io.LineNumberReader;
 import java.io.InputStreamReader;
